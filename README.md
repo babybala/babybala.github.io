@@ -1,2 +1,2 @@
-# dukeHome.github.io
-Git pages named "dukeHome.github.io"
+# shercoHome.github.io
+Git pages named "shercoHome.github.io"
